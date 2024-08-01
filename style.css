@@ -1,0 +1,26 @@
+*{
+    background-color: aqua;
+    text-align: center;
+    margin: 0;
+
+}
+.THIES{
+    text-decoration: underline;
+    background-color:wheat;
+
+}
+#Index{
+    text-decoration: underline;
+    margin: 20px;
+
+    background-color: blue;
+}
+h1{
+    text-transform: lowercase;
+    padding: 25px;
+}
+h2{
+    text-transform: uppercase;
+    padding: 25px;
+
+}
