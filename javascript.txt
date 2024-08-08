@@ -1,0 +1,10 @@
+primitive
+Strings
+Numbers
+bolean
+float
+bigint
+
+Non primitive
+Objects
+arrays
